@@ -7,7 +7,7 @@ package com.june;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+String name = "Rajesh";
 @SpringBootApplication
 public class App 
 {
